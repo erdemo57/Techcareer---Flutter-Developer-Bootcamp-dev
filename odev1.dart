@@ -20,7 +20,7 @@ void main() {
   int urunMiktari = 100;
   String musteriSoyadi = "Örnek";
   double odemeMiktari = 250.50;
-  DateTime dogumTarihi = DateTime(1990, 5, 15);
+  DateTime dogumTarihi = DateTime(1998, 5, 28);
   double borc = 1000.0;
   String medeniHal = "Bekar";
   String videoYorumu = "Harika bir video!";
@@ -70,7 +70,7 @@ void main() {
 
 
 
-  String sirket = "ABC Şirketi";
+  String sirket = "Öztürk A.Ş.";
   print("Şirket İsi : $sirket");
 
 
